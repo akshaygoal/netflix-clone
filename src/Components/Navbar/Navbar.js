@@ -18,7 +18,7 @@ function Navbar() {
         <nav>
           <ul>
             <li className="link">
-              <a href="/Home">Home yguiyg</a>
+              <a href="/Home">Home </a>
             </li>
             <li className="link">
               <a href="/MovieFS">Movies</a>
